@@ -4,8 +4,8 @@ Examples of coding in various languages showcasing finished projects
 - tutoring_scraper.py:
 MyTutor invoice data pipeline:
 Using selenium to webscrape MyTutor.com invoices,
-Reformatting to standard MySQL datatypes,
-Input into database table using MySQL connector,
+reformatting to standard MySQL datatypes,
+inputting into database table using MySQL connector. #This project is for an older version of the website and will be updated in the future
 
 - kNN.py (WIP):
 K Nearest Neighbour algorithm implemented as a python class,
