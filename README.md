@@ -13,3 +13,6 @@ To do: discrete parameter for classification, metric options, K-fold cross valid
 
 - Digit Classifier Comparison:
 Jupyter notebook highlighting differences in training times, accuracies, overfitting and predictions between using MLPs and CNNs for the classic digit classifier
+
+- Heart Failure Decision Tree:
+Jupyter notebook: using Pandas for preprocessing, and Sklearn to create and visualise a decision tree
